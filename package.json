@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "REST API testing framework",
+  "author": "Andrey Surzhan",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "q": "^1.4.1",
+    "xmldom": "^0.1.22"
+  },
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
